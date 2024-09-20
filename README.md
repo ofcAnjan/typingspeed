@@ -1,0 +1,1 @@
+- Add the `common_words.txt` file in your Python directory.
